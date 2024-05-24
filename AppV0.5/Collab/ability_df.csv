@@ -1,0 +1,744 @@
+player_id;name;team_name;Ability_score;attack_score;defend_score;attacking_rank;defending_rank
+153066;Harry Wilson;Queensland Reds;92.4;100.0;84.8;1.0;2.0
+154110;Fraser McReight;Queensland Reds;70.7;61.6;79.8;5.0;3.0
+165000;Tom Christie;Crusaders;69.65;39.3;100.0;46.0;1.0
+161946;Rob Valetini;ACT Brumbies;64.75;61.6;67.9;6.0;5.0
+165852;Samisoni Taukei'aho;Chiefs;63.849999999999994;63.6;64.1;3.0;6.0
+165906;Hamish Stewart;Queensland Reds;59.3;45.4;73.2;26.0;4.0
+177072;Hoskins Sotutu;Blues;59.05;62.7;55.4;4.0;10.0
+201012;Tom Wright;ACT Brumbies;59.0;84.1;33.9;2.0;42.0
+204804;Ryan Smith;Queensland Reds;52.35;41.6;63.1;37.0;7.0
+149676;Luke Jacobson;Chiefs;51.55;43.0;60.1;31.0;8.0
+149694;Jordie Barrett;Hurricanes;51.400000000000006;60.1;42.7;8.0;23.0
+207156;Nick Frost;ACT Brumbies;48.8;41.3;56.3;38.0;9.0
+124590;Scott Barrett;Crusaders;47.45;39.7;55.2;44.0;11.0
+188874;Tupou Vaa'i;Chiefs;45.1;40.5;49.7;40.0;14.0
+206676;Samipeni Finau;Chiefs;45.099999999999994;41.8;48.4;36.0;15.0
+206682;Cullen Grace;Crusaders;44.65;42.0;47.3;34.0;16.0
+205380;Seru Uru;Queensland Reds;44.65;45.5;43.8;24.0;22.0
+164268;Tate McDermott;Queensland Reds;44.05;60.7;27.4;7.0;77.0
+156678;Billy Harmon;Highlanders;44.0;34.6;53.4;54.0;12.0
+191412;Carter Gordon;Melbourne Rebels;43.4;48.0;38.8;17.0;29.0
+133662;Jake Gordon;NSW Waratahs;43.15;50.3;36.0;13.0;37.0
+205602;Charlie Gamble;NSW Waratahs;41.7;31.4;52.0;68.0;13.0
+131940;Andy Muirhead;ACT Brumbies;41.4;48.9;33.9;16.0;43.0
+118932;Jed Holloway;NSW Waratahs;41.0;36.9;45.1;49.0;19.0
+206574;Mark Nawaqanitawase;NSW Waratahs;40.85;50.7;31.0;12.0;58.0
+173226;Jock Campbell;Queensland Reds;40.75;57.7;23.8;9.0;105.0
+141222;Rieko Ioane;Blues;40.05;45.9;34.2;23.0;41.0
+135246;Levi Aumua;Moana Pasifika;39.55;47.7;31.4;19.0;54.0
+206856;Sam Gilbert;Highlanders;39.55;46.8;32.3;20.0;52.0
+176550;Billy Proctor;Hurricanes;39.5;42.7;36.3;32.0;35.0
+234720;William Havili;Moana Pasifika;39.3;53.8;24.8;10.0;97.0
+209622;Joshua Moorby;Hurricanes;38.25;49.9;26.6;15.0;83.0
+179256;Etene Nanai-Seturo;Chiefs;37.8;50.1;25.5;14.0;91.0
+140064;Ricky Riccitelli;Blues;37.7;35.8;39.6;53.0;27.0
+133800;Chase Tiatia;Chiefs;37.55;50.9;24.2;11.0;102.0
+163146;Tim Anstee;Western Force;37.45;29.6;45.3;76.0;18.0
+66978;James Slipper;ACT Brumbies;37.4;30.2;44.6;72.0;20.0
+156912;Mark Telea;Blues;36.849999999999994;46.8;26.9;21.0;81.0
+156618;Noah Lolesio;ACT Brumbies;36.8;41.2;32.4;39.0;51.0
+174330;Du'Plessis Kirifi;Hurricanes;36.65;27.7;45.6;83.0;17.0
+142218;Izaia Perese;NSW Waratahs;36.25;41.9;30.6;35.0;62.0
+184710;Leicester Fainga'anuku;Crusaders;36.0;47.7;24.3;18.0;101.0
+234690;Timoci Tavatavanawai;Moana Pasifika;35.65;45.4;25.9;25.0;88.0
+192630;Will Harris;NSW Waratahs;35.45;30.9;40.0;69.0;25.0
+131670;David Havili;Crusaders;35.05;36.5;33.6;52.0;46.0
+206742;Tevita Ikanivere;Fijian Drua;34.900000000000006;36.7;33.1;50.0;47.0
+197268;Isoa Nasilasila;Fijian Drua;34.85;32.2;37.5;65.0;32.0
+168948;Caleb Clarke;Blues;34.4;43.0;25.8;30.0;89.0
+166086;Harry Johnson-Holmes;NSW Waratahs;33.5;22.9;44.1;112.0;21.0
+133728;Brad Wilkin;Melbourne Rebels;33.349999999999994;25.4;41.3;96.0;24.0
+264132;Selestino Ravutaumada;Fijian Drua;32.95;39.3;26.6;47.0;84.0
+162444;Salesi Rayasi;Hurricanes;32.900000000000006;43.7;22.1;28.0;122.0
+153318;Len Ikitau;ACT Brumbies;32.9;33.9;31.9;59.0;53.0
+164262;Dylan Pietsch;NSW Waratahs;32.75;38.1;27.4;48.0;78.0
+187842;Ben Donaldson;NSW Waratahs;32.150000000000006;42.2;22.1;33.0;121.0
+149688;Stephen Perofeta;Blues;32.1;44.7;19.5;27.0;134.0
+188592;Folau Fakatava;Highlanders;31.75;43.5;20.0;29.0;129.0
+141606;Shaun Stevenson;Chiefs;31.7;46.5;16.9;22.0;160.0
+186408;Rameka Poihipi;Chiefs;31.3;32.2;30.4;66.0;64.0
+157326;Finlay Christie;Blues;31.200000000000003;40.1;22.3;42.0;119.0
+141528;Kurt Eklund;Blues;31.200000000000003;26.2;36.2;93.0;36.0
+192672;Josh Flook;Queensland Reds;30.950000000000003;30.6;31.3;70.0;57.0
+190848;Tom Hooper;ACT Brumbies;30.9;24.7;37.1;100.0;34.0
+140178;Santiago Medrano;Western Force;30.75;24.0;37.5;103.0;33.0
+206658;Naitoa Ah Kuoi;Chiefs;30.7;26.1;35.3;94.0;39.0
+132768;Pete Samu;ACT Brumbies;30.599999999999998;27.4;33.8;89.0;44.0
+103266;Nic White;ACT Brumbies;30.049999999999997;34.4;25.7;56.0;90.0
+225720;Cortez Ratima;Chiefs;29.9;36.6;23.2;51.0;113.0
+142338;Jermaine Ainsley;Highlanders;29.45;21.1;37.8;122.0;31.0
+163734;Ryan Lonergan;ACT Brumbies;29.4;34.4;24.4;57.0;99.0
+168702;Adrian Choat;Blues;28.95;18.4;39.5;151.0;28.0
+126474;Richie Mo'unga;Crusaders;28.8;39.6;18.0;45.0;149.0
+198198;Emoni Narawa;Chiefs;28.799999999999997;39.8;17.8;43.0;152.0
+120396;Ardie Savea;Hurricanes;28.799999999999997;29.9;27.7;74.0;74.0
+169410;Brayden Iose;Hurricanes;28.799999999999997;30.2;27.4;73.0;76.0
+102960;Julian Savea;Hurricanes;28.799999999999997;34.4;23.2;55.0;112.0
+130452;Damian McKenzie;Chiefs;28.5;40.4;16.6;41.0;161.0
+173220;Filipo Daugunu;Queensland Reds;28.5;33.2;23.8;62.0;106.0
+140022;Aidan Ross;Chiefs;28.450000000000003;18.8;38.1;144.0;30.0
+243102;Kalaveti Ravouvou;Fijian Drua;28.299999999999997;32.9;23.7;63.0;108.0
+144318;Hugh Sinclair;NSW Waratahs;28.15;16.3;40.0;166.0;26.0
+193422;Josh Canham;Melbourne Rebels;27.5;22.3;32.7;117.0;49.0
+142626;Matt Gibbon;Melbourne Rebels;27.5;21.4;33.6;120.0;45.0
+140004;Tyrel Lomax;Hurricanes;27.5;20.0;35.0;130.0;40.0
+160716;Darcy Swain;ACT Brumbies;27.1;18.7;35.5;146.0;38.0
+150000;Isaia Walker-Leawere;Hurricanes;27.05;23.8;30.3;105.0;65.0
+156702;Sevu Reece;Crusaders;26.85;33.9;19.8;60.0;132.0
+185382;Solomone Funaki;Moana Pasifika;26.75;23.6;29.9;108.0;67.0
+225636;Christian Lio-Willie;Highlanders;26.5;28.8;24.2;77.0;103.0
+130746;Andrew Kellaway;Melbourne Rebels;26.3;33.7;18.9;61.0;146.0
+118722;Ofa Tu'ungafasi;Blues;26.25;22.3;30.2;115.0;66.0
+177078;Samiuela Moli;Moana Pasifika;26.0;22.7;29.3;114.0;71.0
+112860;Codie Taylor;Crusaders;26.0;22.7;29.3;113.0;70.0
+69774;Bryce Heem;Blues;25.950000000000003;27.3;24.6;90.0;98.0
+243066;Langi Gleeson;NSW Waratahs;25.9;27.4;24.4;87.0;100.0
+196176;Ethan de Groot;Highlanders;25.85;18.8;32.9;142.0;48.0
+124314;Michael Wells;Melbourne Rebels;25.55;20.3;30.8;127.0;59.0
+206784;Vilive Miramira;Fijian Drua;25.35;25.3;25.4;97.0;92.0
+225612;Caleb Delany;Hurricanes;25.25;19.8;30.7;132.0;61.0
+156990;Tamati Tua;Blues;25.05;27.1;23.0;91.0;114.0
+149706;Asafo Aumua;Hurricanes;24.95;23.4;26.5;110.0;85.0
+186396;Ollie Norris;Chiefs;24.85;17.1;32.6;159.0;50.0
+144210;Jordan Uelese;Melbourne Rebels;24.85;23.7;26.0;106.0;86.0
+140040;James Blackwell;Hurricanes;24.6;18.5;30.7;147.0;60.0
+134226;George Bower;Crusaders;24.5;18.5;30.5;150.0;63.0
+185508;Xavier Numia;Hurricanes;24.3;20.3;28.3;128.0;73.0
+166698;Lachlan Lonergan;ACT Brumbies;23.75;19.9;27.6;131.0;75.0
+232770;Iosefo Masi;Fijian Drua;23.7;28.0;19.4;82.0;137.0
+168684;Tom Horton;NSW Waratahs;23.6;15.8;31.4;173.0;55.0
+124356;Lalakai Foketi;NSW Waratahs;23.55;24.5;22.6;101.0;117.0
+140982;Issak Fines-Leleiwasa;Western Force;23.5;34.1;12.9;58.0;207.0
+188676;Danny Toala;Moana Pasifika;23.45;27.5;19.4;86.0;138.0
+192504;Luke Reimer;ACT Brumbies;23.4;15.4;31.4;179.0;56.0
+157044;Manasa Mataele;Western Force;23.4;32.5;14.3;64.0;185.0
+139662;Akira Ioane;Blues;23.1;24.0;22.2;104.0;120.0
+69666;Sam Cane;Chiefs;22.85;16.0;29.7;171.0;69.0
+155268;Jordan Petaia;Queensland Reds;22.7;31.7;13.7;67.0;194.0
+235248;Abraham Pole;Crusaders;22.7;20.5;24.9;125.0;96.0
+173874;Jahrome Brown;ACT Brumbies;22.65;15.5;29.8;178.0;68.0
+188928;Quinn Tupaea;Chiefs;22.6;26.2;19.0;92.0;143.0
+126342;Mitchell Drummond;Crusaders;22.4;27.6;17.2;84.0;157.0
+168960;Braydon Ennor;Crusaders;22.35;21.4;23.3;121.0;111.0
+225642;Sean Withy;Highlanders;22.25;19.3;25.2;139.0;94.0
+176004;Fergus Lee-Warner;Western Force;22.2;19.5;24.9;137.0;95.0
+225594;Cam Roigard;Hurricanes;22.2;30.3;14.1;71.0;190.0
+171126;Frank Lomani;Fijian Drua;22.15;28.7;15.6;78.0;169.0
+165942;Bayley Kuenzle;Western Force;22.0;22.3;21.7;118.0;125.0
+186390;Apisalome Vota;Fijian Drua;21.95;24.4;19.5;102.0;135.0
+166500;Hunter Paisami;Queensland Reds;21.95;24.7;19.2;99.0;139.0
+149664;Quinten Strange;Crusaders;21.9;17.8;26.0;152.0;87.0
+141690;Alex Nankivell;Chiefs;21.85;26.0;17.7;95.0;154.0
+117582;Cadeyrn Neville;ACT Brumbies;21.8;15.1;28.5;182.0;72.0
+130428;James Tucker;Blues;21.5;16.3;26.7;167.0;82.0
+149814;Liam Wright;Queensland Reds;21.450000000000003;15.8;27.1;174.0;79.0
+209934;Ollie Sapsford;ACT Brumbies;21.45;20.5;22.4;126.0;118.0
+227454;Suliasi Vunivalu;Queensland Reds;21.4;27.4;15.4;88.0;170.0
+136404;Hugh Renton;Highlanders;21.25;17.2;25.3;157.0;93.0
+168972;Will Jordan;Crusaders;20.700000000000003;29.6;11.8;75.0;224.0
+169002;Thomas Umaga-Jensen;Highlanders;20.6;23.5;17.7;109.0;153.0
+169092;Peni Matawalu;Fijian Drua;20.55;27.6;13.5;85.0;197.0
+197490;Connor Garden-Bachop;Highlanders;20.4;28.4;12.4;80.0;212.0
+176688;Te Ahiwaru Cirikidaveta;Fijian Drua;19.950000000000003;17.1;22.8;158.0;115.0
+197862;Zarn Sullivan;Blues;19.9;28.1;11.7;81.0;228.0
+193992;Carlo Tizzano;NSW Waratahs;19.9;12.7;27.1;201.0;80.0
+125058;Dan Lienert-Brown;Highlanders;19.8;15.9;23.7;172.0;107.0
+162540;Fetuli Paea;Highlanders;19.799999999999997;20.7;18.9;124.0;145.0
+192618;Jeremy Williams;NSW Waratahs;19.799999999999997;17.7;21.9;154.0;123.0
+216078;Vaiolini Ekuasi;Blues;19.5;16.4;22.6;165.0;116.0
+112890;Brad Weber;Chiefs;19.4;24.8;14.0;98.0;191.0
+192528;Tane Edmed;NSW Waratahs;19.2;23.4;15.0;111.0;174.0
+206724;Dallas McLeod;Crusaders;19.1;19.2;19.0;140.0;142.0
+214050;Kitione Salawa;Fijian Drua;19.1;17.7;20.5;153.0;128.0
+153846;Matt Faessler;Queensland Reds;19.1;16.5;21.7;164.0;124.0
+69684;Beauden Barrett;Blues;19.05;28.5;9.6;79.0;254.0
+134076;Dave Porecki;NSW Waratahs;18.700000000000003;13.3;24.1;195.0;104.0
+102222;Michael Hooper;NSW Waratahs;18.45;13.5;23.4;194.0;110.0
+210894;Joseva Tamani;Fijian Drua;18.35;19.1;17.6;141.0;155.0
+197904;Tamaiti Williams;Crusaders;18.35;16.9;19.8;160.0;130.0
+112836;Brodie Retallick;Chiefs;18.15;16.5;19.8;163.0;131.0
+161400;Ethan Blackadder;Crusaders;18.15;15.2;21.1;181.0;127.0
+222624;Ratu Rotuisolia;Fijian Drua;18.05;17.3;18.8;156.0;148.0
+184704;Devan Flanders;Hurricanes;18.049999999999997;16.7;19.4;162.0;136.0
+124380;Reece Hodge;Melbourne Rebels;18.0;21.4;14.6;119.0;180.0
+164970;Lachie Anderson;Melbourne Rebels;17.25;19.5;15.0;136.0;176.0
+192666;Angus Bell;NSW Waratahs;17.1;17.6;16.6;155.0;162.0
+128748;Ryan Louwrens;Melbourne Rebels;17.0;22.3;11.7;116.0;227.0
+196956;Ilaisa Droasese;Fijian Drua;16.8;23.6;10.0;107.0;248.0
+206670;George Dyer;Chiefs;16.75;10.1;23.4;234.0;109.0
+177114;Bradley Slater;Chiefs;16.700000000000003;14.3;19.1;188.0;141.0
+141384;Jonah Lowe;Chiefs;16.5;19.7;13.3;133.0;201.0
+149682;Marino Mikaele-Tu'u;Highlanders;16.45;19.3;13.6;138.0;196.0
+207894;Elia Canakaivata;Fijian Drua;16.0;16.8;15.2;161.0;173.0
+189162;AJ Lam;Blues;15.9;18.5;13.3;148.0;203.0
+206712;Fergus Burke;Crusaders;15.65;18.8;12.5;143.0;210.0
+216090;Aidan Morgan;Hurricanes;15.6;21.0;10.2;123.0;246.0
+131406;Samuela Tawake;Fijian Drua;15.450000000000001;11.3;19.6;221.0;133.0
+58092;James O'Connor;Queensland Reds;15.399999999999999;18.7;12.1;145.0;217.0
+197874;Chay Fihaki;Crusaders;15.350000000000001;19.6;11.1;134.0;235.0
+149724;Dalton Papali'i;Blues;15.299999999999999;11.7;18.9;215.0;144.0
+196704;Ollie Callan;Western Force;15.299999999999999;11.7;18.9;216.0;147.0
+157050;Shannon Frizell;Highlanders;15.100000000000001;15.3;14.9;180.0;177.0
+216132;Dom Gardiner;Crusaders;15.1;12.3;17.9;207.0;151.0
+188910;Haereiti Hetet;Fijian Drua;15.1;13.2;17.0;196.0;159.0
+184014;Lawson Creighton;Queensland Reds;15.05;16.0;14.1;170.0;188.0
+141324;Marcel Renata;Blues;14.75;11.6;17.9;217.0;150.0
+166620;Mahe Vailanu;NSW Waratahs;14.7;14.4;15.0;187.0;175.0
+173826;Pita Gus Sowakula;Chiefs;14.649999999999999;15.6;13.7;176.0;195.0
+197868;Jacob Ratumaitavuki-Kneepkens;Blues;14.45;20.3;8.6;129.0;267.0
+168978;Ezekiel Lindenmuth;Moana Pasifika;14.25;12.1;16.4;211.0;165.0
+62526;Sam Whitelock;Crusaders;14.2;12.5;15.9;204.0;167.0
+133404;Stacey Ili;Melbourne Rebels;14.149999999999999;14.1;14.2;190.0;186.0
+199776;Kalani Thomas;Queensland Reds;14.100000000000001;19.6;8.6;135.0;270.0
+128790;Anton Lienert-Brown;Chiefs;14.100000000000001;14.9;13.3;184.0;200.0
+209964;Cameron Suafoa;Blues;14.0;12.8;15.2;198.0;172.0
+179538;Sam Spink;Western Force;14.0;14.7;13.3;185.0;202.0
+176598;Harry Plummer;Blues;13.95;16.2;11.7;168.0;226.0
+184722;Tevita Mafileo;Hurricanes;13.899999999999999;10.6;17.2;229.0;158.0
+118890;Allan Alaalatoa;ACT Brumbies;13.850000000000001;8.6;19.1;252.0;140.0
+186534;Brodie McAlister;Crusaders;13.85;11.7;16.0;214.0;166.0
+153156;Angus Blyth;Queensland Reds;13.8;5.9;21.7;302.0;126.0
+206664;Kaylum Boshier;Chiefs;13.75;10.9;16.6;225.0;163.0
+197922;Anton Segner;Blues;13.6;10.7;16.5;228.0;164.0
+193038;Corey Toole;ACT Brumbies;13.5;18.5;8.5;149.0;272.0
+134880;Bryn Gatland;Chiefs;13.350000000000001;16.1;10.6;169.0;241.0
+188862;Kini Naholo;Crusaders;13.2;15.7;10.7;175.0;238.0
+203442;Fine Inisi;Moana Pasifika;13.05;14.6;11.5;186.0;230.0
+140352;Josh Ioane;Chiefs;12.95;15.5;10.4;177.0;243.0
+209232;Cabous Eloff;Melbourne Rebels;12.95;12.1;13.8;209.0;193.0
+227712;Roger Tuivasa-Sheck;Blues;12.8;12.7;12.9;200.0;206.0
+130710;Matt Philip;Melbourne Rebels;12.8;13.7;11.9;191.0;223.0
+115080;Nepo Laulala;Blues;12.7;10.6;14.8;230.0;179.0
+192960;Rory Scott;ACT Brumbies;12.7;8.1;17.3;265.0;156.0
+191460;Zane Nonggorr;Queensland Reds;12.65;10.9;14.4;226.0;183.0
+197832;Sam Darry;Blues;12.600000000000001;9.8;15.4;240.0;171.0
+182292;Josh Kemeny;Melbourne Rebels;12.45;10.0;14.9;235.0;178.0
+134460;Richard Hardwick;Melbourne Rebels;12.3;11.2;13.4;224.0;199.0
+156996;Tom Robinson;Blues;12.25;9.9;14.6;237.0;181.0
+139980;Ned Hanigan;NSW Waratahs;12.100000000000001;10.3;13.9;233.0;192.0
+124362;Henry Taefu;Moana Pasifika;12.0;12.2;11.8;208.0;225.0
+192546;Joey Walton;NSW Waratahs;12.0;11.8;12.2;213.0;216.0
+103392;Teti Tela;Fijian Drua;12.0;11.6;12.4;218.0;213.0
+241614;Peter Lakai;Hurricanes;11.95;11.5;12.4;219.0;211.0
+149730;Ere Enari;Moana Pasifika;11.899999999999999;12.7;11.1;202.0;234.0
+153402;Rhys Van Nek;Melbourne Rebels;11.8;7.8;15.8;268.0;168.0
+134682;James Tuttle;Melbourne Rebels;11.649999999999999;14.1;9.2;189.0;259.0
+157056;Andrew Makalio;Highlanders;11.600000000000001;9.8;13.4;238.0;198.0
+115806;Joe Moody;Crusaders;11.55;9.0;14.1;242.0;189.0
+206700;Fletcher Newell;Crusaders;11.5;8.4;14.6;257.0;182.0
+192480;Billy Pollard;ACT Brumbies;11.2;8.2;14.2;261.0;187.0
+130380;Josh Dickson;Highlanders;11.0;7.6;14.4;274.0;184.0
+141732;Sam Nock;Blues;10.95;12.1;9.8;212.0;250.0
+102870;Angus Ta'avao;Chiefs;10.95;9.0;12.9;243.0;208.0
+128226;Peni Ravai;Queensland Reds;10.8;10.4;11.2;232.0;233.0
+142170;Alex Mafi;Queensland Reds;10.75;9.0;12.5;245.0;209.0
+173868;Bailyn Sullivan;Hurricanes;10.6;12.6;8.6;203.0;269.0
+148230;Alamanda Motuga;Moana Pasifika;10.6;8.2;13.0;263.0;204.0
+160674;Tuaina Taii Tualima;Queensland Reds;10.5;9.0;12.0;244.0;219.0
+173094;Scott Gregory;Highlanders;10.45;11.2;9.7;223.0;252.0
+346554;Max Jorgensen;NSW Waratahs;10.45;14.9;6.0;183.0;309.0
+130686;Tom Robertson;Western Force;10.350000000000001;8.4;12.3;256.0;214.0
+69492;Aaron Smith;Highlanders;10.3;13.7;6.9;192.0;297.0
+132966;Jamie Booth;Hurricanes;10.3;13.7;6.9;193.0;296.0
+149658;Pouri Rakete-Stones;Hurricanes;10.2;8.4;12.0;258.0;221.0
+142302;Nick Jooste;Melbourne Rebels;10.15;11.3;9.0;222.0;262.0
+216066;Zach Gallagher;Crusaders;10.15;7.3;13.0;277.0;205.0
+235482;Justin Sangster;Hurricanes;9.9;8.5;11.3;254.0;231.0
+160668;Jake Strachan;Western Force;9.9;12.9;6.9;197.0;293.0
+131382;Feleti Kaitu'u;Western Force;9.899999999999999;7.6;12.2;273.0;215.0
+191418;Glen Vaihu;Melbourne Rebels;9.75;12.4;7.1;206.0;291.0
+201210;Meli Derenalagi;Fijian Drua;9.7;9.8;9.6;239.0;255.0
+103554;Ian Prior;Western Force;9.65;12.1;7.2;210.0;286.0
+149808;Izack Rodda;Western Force;9.6;8.7;10.5;249.0;242.0
+133770;Jack Goodhue;Crusaders;9.5;9.0;10.0;246.0;249.0
+60192;Owen Franks;Hurricanes;9.5;7.1;11.9;280.0;222.0
+111024;TJ Perenara;Hurricanes;9.45;12.7;6.2;199.0;308.0
+185118;Mesulame Dolokoto;Fijian Drua;9.399999999999999;8.6;10.2;253.0;247.0
+203430;Lotu Inisi;Moana Pasifika;9.3;8.9;9.7;247.0;251.0
+166242;Lachlan Swinton;NSW Waratahs;9.100000000000001;6.9;11.3;281.0;232.0
+125064;Sam Talakai;Melbourne Rebels;8.8;5.5;12.1;313.0;218.0
+131148;Sef Fa'agase;Melbourne Rebels;8.75;7.2;10.3;278.0;245.0
+188610;Lincoln McClutchie;Moana Pasifika;8.7;11.5;5.9;220.0;310.0
+54150;Christian Leali'ifano;Moana Pasifika;8.65;10.5;6.8;231.0;300.0
+243174;Tom Lynagh;Queensland Reds;8.65;9.4;7.9;241.0;281.0
+132948;James Lentjes;Highlanders;8.6;5.6;11.6;310.0;229.0
+216096;Ruben Love;Hurricanes;8.55;12.4;4.7;205.0;340.0
+133602;Folau Fainga'a;ACT Brumbies;8.5;6.7;10.3;287.0;244.0
+175518;Laghlan McWhannell;Chiefs;8.45;7.8;9.1;271.0;261.0
+147540;Oli Jager;Crusaders;8.3;5.7;10.9;307.0;236.0
+118578;Pablo Matera;Crusaders;8.25;7.9;8.6;266.0;268.0
+113970;Tetera Faulkner;NSW Waratahs;8.2;4.4;12.0;333.0;220.0
+149820;Richie Asiata;Queensland Reds;8.2;5.8;10.6;306.0;240.0
+234684;Max Hicks;Highlanders;8.2;5.5;10.9;312.0;237.0
+160818;Irae Simone;ACT Brumbies;8.05;6.7;9.4;283.0;257.0
+119346;Alex Hodgman;Blues;8.0;6.5;9.5;291.0;256.0
+131862;Taniela Tupou;Queensland Reds;7.9;8.6;7.2;251.0;287.0
+144780;Rob Leota;Melbourne Rebels;7.9;6.7;9.1;285.0;260.0
+197916;Josh Lord;Chiefs;7.8;6.4;9.2;292.0;258.0
+208926;Mac Grealy;Queensland Reds;7.8;10.0;5.6;236.0;316.0
+124602;Patrick Tuipulotu;Blues;7.8;8.1;7.5;264.0;284.0
+147456;Peter Umaga-Jensen;Hurricanes;7.7;8.3;7.1;259.0;290.0
+161100;Connor Vest;Queensland Reds;7.6;6.3;8.9;294.0;265.0
+134016;Monty Ioane;Melbourne Rebels;7.550000000000001;10.8;4.3;227.0;349.0
+140028;George Bridge;Crusaders;7.5;8.7;6.3;250.0;307.0
+134886;Reed Prinsep;Hurricanes;7.4;5.8;9.0;305.0;263.0
+140016;Lukhan Salakaia-Loto;Queensland Reds;7.3999999999999995;6.6;8.2;288.0;277.0
+156768;Jordan Lay;Blues;7.35;5.0;9.7;318.0;253.0
+204888;David Feliuai;Melbourne Rebels;7.300000000000001;7.7;6.9;272.0;295.0
+185988;Pone Fa'amausili;Melbourne Rebels;7.300000000000001;6.7;7.9;284.0;280.0
+188904;Luteru Tolai;Moana Pasifika;7.3;6.4;8.2;293.0;276.0
+173436;Manaaki Selby-Rickit;Highlanders;7.2;5.9;8.5;303.0;271.0
+197910;Saula Mau;Highlanders;7.1499999999999995;6.1;8.2;299.0;275.0
+111492;Kyle Godwin;Western Force;7.050000000000001;7.4;6.7;276.0;302.0
+118740;Rhys Marshall;Highlanders;6.95;6.2;7.7;296.0;282.0
+191484;Reesjan Pasitoa;Western Force;6.95;8.3;5.6;260.0;318.0
+131178;Ryan McCauley;Western Force;6.9;5.4;8.4;314.0;273.0
+120534;Toni Pulu;Western Force;6.800000000000001;7.9;5.7;267.0;315.0
+153636;Blake Schoupp;ACT Brumbies;6.800000000000001;4.8;8.8;322.0;266.0
+62514;Luke Romano;Blues;6.8;6.1;7.5;300.0;283.0
+196962;Dane Zander;Queensland Reds;6.75;2.8;10.7;378.0;239.0
+140406;Jonathan Taumateine;Moana Pasifika;6.7;7.5;5.9;275.0;313.0
+209904;Zuriel Togiatama;Fijian Drua;6.7;4.4;9.0;331.0;264.0
+234774;Felix Kalapu;Western Force;6.699999999999999;6.6;6.8;290.0;298.0
+139962;Alex Newsome;NSW Waratahs;6.65;8.8;4.5;248.0;345.0
+168996;Samuel Slade;Moana Pasifika;6.5;4.9;8.1;320.0;279.0
+197814;Tyrone Thompson;Chiefs;6.45;5.7;7.2;308.0;289.0
+234528;Fabian Holland;Highlanders;6.3999999999999995;4.6;8.2;324.0;278.0
+262374;Miracle Faiilagi;Moana Pasifika;6.2;6.0;6.4;301.0;306.0
+149994;Sefo Kautai;ACT Brumbies;6.1;3.8;8.4;352.0;274.0
+226464;Daniel Rona;Chiefs;6.05;6.6;5.5;289.0;320.0
+175506;Sione Havili;Crusaders;6.0;4.8;7.2;321.0;288.0
+234726;Macca Springer;Crusaders;6.0;7.2;4.8;279.0;335.0
+157332;Tima Fainga'anuku;Moana Pasifika;6.0;6.8;5.2;282.0;326.0
+184806;Caleb Muntz;Fijian Drua;5.9;5.0;6.8;319.0;299.0
+197928;Taufa Funaki;Blues;5.85;7.8;3.9;270.0;359.0
+221874;Max Burey;Western Force;5.85;8.5;3.2;255.0;380.0
+134976;Connal McInerney;ACT Brumbies;5.7;4.0;7.4;347.0;285.0
+173526;Brett Cameron;Hurricanes;5.6;8.2;3.0;262.0;391.0
+130758;Tom Banks;ACT Brumbies;5.6;7.8;3.4;269.0;373.0
+234552;Alex McRobbie;Moana Pasifika;5.5;4.3;6.7;338.0;303.0
+211644;Jone Koroiduadua;Fijian Drua;5.5;5.1;5.9;316.0;312.0
+173826;Pita Sowakula;Chiefs;5.5;6.2;4.8;297.0;333.0
+216138;Corey Kellow;Crusaders;5.45;3.9;7.0;350.0;292.0
+197988;Soane Vikena;Blues;5.2;4.5;5.9;328.0;311.0
+243180;Tamati Ioane;Melbourne Rebels;5.15;4.7;5.6;323.0;317.0
+118824;Bryn Hall;Crusaders;5.15;5.9;4.4;304.0;348.0
+165168;Jona Nareki;Highlanders;5.15;6.3;4.0;295.0;356.0
+52146;Sekope Kepu;Moana Pasifika;5.15;3.6;6.7;363.0;304.0
+152016;Pari  Parkinson;Highlanders;5.050000000000001;3.7;6.4;361.0;305.0
+233220;Vinaya Habosi;Fijian Drua;5.05;6.7;3.4;286.0;372.0
+130674;Cameron Orr;Melbourne Rebels;5.05;3.4;6.7;364.0;301.0
+149724;Dalton Papalii;Blues;5.0;3.1;6.9;373.0;294.0
+128754;Jack Debreczeni;ACT Brumbies;4.95;5.2;4.7;315.0;339.0
+234714;Noah Hotham;Crusaders;4.8;6.1;3.5;298.0;368.0
+351972;Angelo Smith;Melbourne Rebels;4.7;4.2;5.2;339.0;323.0
+176142;Jack Grant;NSW Waratahs;4.699999999999999;5.6;3.8;309.0;362.0
+214284;George Bell;Crusaders;4.65;3.8;5.5;356.0;319.0
+235854;Nikora Broughton;Highlanders;4.65;4.6;4.7;326.0;337.0
+193470;Isaac Aedo Kailea;Melbourne Rebels;4.65;4.5;4.8;327.0;336.0
+164082;Neria Fomai;Moana Pasifika;4.55;5.1;4.0;317.0;357.0
+215670;Charlie Cale;ACT Brumbies;4.5;4.1;4.9;344.0;330.0
+103230;Scott Sio;ACT Brumbies;4.5;3.7;5.3;360.0;322.0
+58002;Jeremy Thrush;Western Force;4.5;4.1;4.9;343.0;329.0
+130854;Henry Stowers;Moana Pasifika;4.45;4.4;4.5;332.0;347.0
+153312;Trevor Hosea;Melbourne Rebels;4.45;3.9;5.0;349.0;327.0
+166722;Tom Ross;ACT Brumbies;4.25;2.7;5.8;385.0;314.0
+141702;Taleni Seu;NSW Waratahs;4.25;3.8;4.7;353.0;341.0
+196686;Jackson Pugh;Western Force;4.2;3.6;4.8;362.0;334.0
+165876;Harry Hoopert;Queensland Reds;4.2;3.2;5.2;367.0;325.0
+60150;Dane Coles;Hurricanes;4.199999999999999;3.8;4.6;357.0;343.0
+126420;Ray Niuia;Moana Pasifika;4.15;4.0;4.3;345.0;351.0
+124284;Andrew Ready;Western Force;4.1;4.2;4.0;340.0;358.0
+116328;John Ryan;Chiefs;4.1;2.7;5.5;386.0;321.0
+184740;Xavier Roe;Chiefs;4.0;5.5;2.5;311.0;409.0
+166788;Angus Wagner;Western Force;4.0;3.1;4.9;370.0;328.0
+62538;Willi Heinz;Crusaders;3.95;4.4;3.5;330.0;369.0
+153054;Josh Nasser;Queensland Reds;3.9000000000000004;3.1;4.7;371.0;338.0
+214296;Jamie Hannah;Crusaders;3.8499999999999996;3.9;3.8;351.0;361.0
+132954;Blake Gibson;Hurricanes;3.8499999999999996;2.9;4.8;375.0;332.0
+192606;Tom Lambert;NSW Waratahs;3.75;3.3;4.2;365.0;352.0
+141636;Mike McKee;Moana Pasifika;3.7;2.2;5.2;415.0;324.0
+188916;Mosese Dawai;Highlanders;3.6999999999999997;4.1;3.3;341.0;377.0
+124392;Mesake Doge;Fijian Drua;3.6999999999999997;2.8;4.6;380.0;342.0
+161388;Harrison Goddard;NSW Waratahs;3.65;4.3;3.0;337.0;388.0
+44196;Richard Kahui;Western Force;3.65;4.3;3.0;335.0;390.0
+133386;Mitchell Hunt;Highlanders;3.65;4.5;2.8;329.0;398.0
+221310;Liam Coombes-Fabling;Highlanders;3.6;4.0;3.2;346.0;381.0
+175506;Sione Havili Talitui;Crusaders;3.6;2.7;4.5;384.0;346.0
+126990;James O'Reilly;Hurricanes;3.5999999999999996;2.6;4.6;389.0;344.0
+133386;Mitch Hunt;Highlanders;3.5999999999999996;4.6;2.6;325.0;403.0
+206796;Etonia Waqa;Fijian Drua;3.55;3.7;3.4;359.0;370.0
+197838;Simon Parker;Chiefs;3.55;2.8;4.3;379.0;350.0
+190956;Archer Holz;NSW Waratahs;3.45;2.0;4.9;426.0;331.0
+215352;Marley Pearce;Western Force;3.35;3.1;3.6;372.0;364.0
+132846;Wes Goosen;Hurricanes;3.3499999999999996;4.3;2.4;334.0;414.0
+335394;George Poolman;Western Force;3.3;4.1;2.5;342.0;408.0
+201210;Ratu Meli Derenalagi;Fijian Drua;3.25;3.0;3.5;374.0;367.0
+189198;Michael Curry;Moana Pasifika;3.2;2.5;3.9;391.0;360.0
+233214;Onisi Ratave;Fijian Drua;3.2;4.3;2.1;336.0;429.0
+149730;Ereatara Enari;Moana Pasifika;3.15;3.8;2.5;354.0;413.0
+206814;Simione Kuruvoli;Fijian Drua;3.15;4.0;2.3;348.0;421.0
+197514;Jacob Norris;Western Force;3.1;2.0;4.2;431.0;353.0
+176640;Ricky Jackson;Crusaders;3.05;2.5;3.6;393.0;365.0
+234642;Pasilio Tosi;Hurricanes;3.05;2.5;3.6;394.0;366.0
+130728;Joe Powell;Melbourne Rebels;3.0;3.1;2.9;368.0;395.0
+114240;Gareth Evans;Highlanders;2.85;2.5;3.2;392.0;382.0
+156930;Chris Apoua;Moana Pasifika;2.85;2.0;3.7;428.0;363.0
+200016;Siosifa Amone;Western Force;2.85;2.7;3.0;387.0;392.0
+149760;Angus Scott-Young;Queensland Reds;2.8499999999999996;2.3;3.4;408.0;371.0
+124566;Sione Mafileo;Chiefs;2.8;1.5;4.1;465.0;354.0
+125400;Zach Kibirige;Western Force;2.75;3.8;1.7;355.0;458.0
+160248;Rahboni Warren-Vosayaco;NSW Waratahs;2.75;2.3;3.2;406.0;383.0
+200826;Jonah Mau'u;Moana Pasifika;2.7;2.3;3.1;409.0;386.0
+216060;Allan Craig;Moana Pasifika;2.7;2.2;3.2;416.0;378.0
+156912;Mark Tele'a;Blues;2.7;3.7;1.7;358.0;452.0
+141918;Reuben O'Neill;Crusaders;2.65;1.3;4.0;479.0;355.0
+182808;Triston Reilly;NSW Waratahs;2.65;2.8;2.5;381.0;410.0
+130374;Geoff Cridge;NSW Waratahs;2.65;2.4;2.9;403.0;394.0
+225624;Henry Bell;Highlanders;2.6;2.1;3.1;424.0;384.0
+102852;Liam Coltman;Highlanders;2.5999999999999996;1.9;3.3;437.0;374.0
+120600;Brynard Stander;Western Force;2.55;2.5;2.6;396.0;406.0
+58062;Matt To'omua;Melbourne Rebels;2.5;2.4;2.6;401.0;404.0
+60666;James Hanson;Melbourne Rebels;2.5;2.1;2.9;419.0;396.0
+141966;Joe Apikotoa;Moana Pasifika;2.5;1.9;3.1;438.0;387.0
+175944;Eroni Sau;Fijian Drua;2.5;3.3;1.7;366.0;457.0
+102888;Tom Franklin;Western Force;2.45;1.6;3.3;454.0;375.0
+176412;Josh Timu;Highlanders;2.45;2.3;2.6;411.0;405.0
+197934;Rivez Reihana;Chiefs;2.4;3.1;1.7;369.0;453.0
+126948;Marty Banks;Highlanders;2.4;2.9;1.9;377.0;442.0
+197568;Hudson Creighton;ACT Brumbies;2.4;2.4;2.4;404.0;418.0
+116364;Tom Savage;Moana Pasifika;2.4;1.5;3.3;462.0;376.0
+153300;Isaac Henry;Queensland Reds;2.35;2.5;2.2;397.0;425.0
+184692;Kaliopasi Uluilakepa;Fijian Drua;2.35;2.1;2.6;421.0;402.0
+214302;TK Howden;Hurricanes;2.35;1.8;2.9;443.0;393.0
+197160;Bo Abra;Western Force;2.35;2.0;2.7;429.0;399.0
+140388;Pepesana Patafilo;Crusaders;2.3499999999999996;2.3;2.4;413.0;417.0
+206754;Livai Natave;Fijian Drua;2.3;1.6;3.0;452.0;389.0
+358770;Mesake Vocevoce;Fijian Drua;2.3;2.4;2.2;400.0;424.0
+135594;Feao Fotuaika;Queensland Reds;2.3;1.4;3.2;466.0;379.0
+225510;Anzelo Tuitavuki;Moana Pasifika;2.25;2.8;1.7;382.0;459.0
+160248;Rahboni Vosayaco;Western Force;2.25;2.1;2.4;422.0;415.0
+121920;Nemani Nagusa;Fijian Drua;2.25;2.0;2.5;427.0;412.0
+353514;Taniela Rakuro;Fijian Drua;2.2;2.9;1.5;376.0;466.0
+140046;Josh Goodhue;Blues;2.2;1.7;2.7;447.0;401.0
+153462;Will Harrison;NSW Waratahs;2.1500000000000004;2.7;1.6;388.0;462.0
+124350;Jake McIntyre;Western Force;2.1500000000000004;2.2;2.1;414.0;430.0
+169320;Tanielu Tele'a;Highlanders;2.15;2.4;1.9;398.0;436.0
+243168;Lopeti Faifua;Queensland Reds;2.15;1.5;2.8;460.0;397.0
+177192;Joe Pincus;Melbourne Rebels;2.15;2.8;1.5;383.0;469.0
+234750;Veikoso Poloniati;Moana Pasifika;2.15;2.0;2.3;433.0;423.0
+124440;Viliame Rarasea;Fijian Drua;2.15;2.3;2.0;407.0;432.0
+52122;Bryn Evans;Highlanders;2.15;1.2;3.1;483.0;385.0
+151284;D'Angelo Leuila;Moana Pasifika;2.1;2.6;1.6;390.0;463.0
+197910;Saula Ma'u;Highlanders;2.1;1.7;2.5;445.0;411.0
+153126;Byron Ralston;Western Force;2.0999999999999996;2.3;1.9;405.0;444.0
+54150;Christian Lealiifano;Moana Pasifika;2.0999999999999996;1.9;2.3;441.0;419.0
+134436;Kane Koteka;Western Force;2.05;1.7;2.4;450.0;416.0
+187782;Ray Nu'u;Melbourne Rebels;2.0;2.1;1.9;420.0;437.0
+153846;Matthew Faessler;Queensland Reds;2.0;1.5;2.5;461.0;407.0
+156744;James Lay;Blues;2.0;1.9;2.1;440.0;431.0
+234786;Corey Evans;Blues;1.9500000000000002;2.1;1.8;418.0;450.0
+242214;Riley Higgins;Hurricanes;1.95;2.0;1.9;430.0;434.0
+218022;Solomone Kata;Moana Pasifika;1.95;2.4;1.5;399.0;465.0
+185178;Tuidraki Samusamuvodre;Fijian Drua;1.9;2.0;1.8;432.0;449.0
+169176;Suetena Asomua;Moana Pasifika;1.85;1.8;1.9;442.0;435.0
+149994;Sosefo Kautai;ACT Brumbies;1.85;1.0;2.7;500.0;400.0
+165984;Sama Malolo;Moana Pasifika;1.85;1.8;1.9;444.0;443.0
+198204;Cole Forbes;Blues;1.85;2.5;1.2;395.0;489.0
+123288;Nigel Ah Wong;Moana Pasifika;1.8499999999999999;2.3;1.4;412.0;475.0
+264216;Lukas Ripley;Melbourne Rebels;1.8;2.0;1.6;434.0;464.0
+216504;Harry Wilson;NSW Waratahs;1.8;2.1;1.5;423.0;472.0
+47898;Jamie Roberts;NSW Waratahs;1.7999999999999998;1.7;1.9;451.0;445.0
+189198;Mike Curry;Moana Pasifika;1.7999999999999998;1.7;1.9;446.0;439.0
+199476;Miles Amatosero;NSW Waratahs;1.75;1.6;1.9;457.0;446.0
+149652;Ayden Johnstone;Highlanders;1.7000000000000002;1.3;2.1;473.0;428.0
+140076;Te Toiroa Tahuriorangi;Crusaders;1.7000000000000002;2.1;1.3;417.0;483.0
+168954;Ryan Coxon;Western Force;1.7000000000000002;1.3;2.1;478.0;427.0
+143130;Jared Proffit;Hurricanes;1.7;1.1;2.3;490.0;422.0
+61110;Freddie Burns;Highlanders;1.7;2.4;1.0;402.0;505.0
+214302;Te Kamaka Howden;Hurricanes;1.7;1.4;2.0;471.0;433.0
+207552;Sorovakatini Tuifagalele;Fijian Drua;1.7;1.7;1.7;449.0;455.0
+190836;Julian Heaven;NSW Waratahs;1.65;1.0;2.3;495.0;420.0
+337404;Wallace Sititi;Chiefs;1.6;1.5;1.7;464.0;460.0
+127404;Jackson Garden-Bachop;Hurricanes;1.5999999999999999;2.3;0.9;410.0;510.0
+206838;Epeli Momo;Fijian Drua;1.55;2.0;1.1;425.0;496.0
+337380;Oliver Haig;Highlanders;1.5;1.3;1.7;474.0;456.0
+216084;Manu Paea;Moana Pasifika;1.5;1.9;1.1;436.0;500.0
+350070;Michael Naitokani;Fijian Drua;1.5;1.7;1.3;448.0;486.0
+234576;Harry Godfrey;Hurricanes;1.45;2.0;0.9;435.0;513.0
+216042;James Arscott;Highlanders;1.4;1.6;1.2;458.0;491.0
+197898;Tiaan Tauakipulu;NSW Waratahs;1.4;0.9;1.9;504.0;440.0
+132840;Leni Apisai;Hurricanes;1.4;0.7;2.1;523.0;426.0
+337362;Josh Beehre;Blues;1.4;1.3;1.5;481.0;467.0
+196518;Emosi Tuqiri;Fijian Drua;1.35;0.9;1.8;505.0;451.0
+225732;Kershawl Sykes-Martin;Crusaders;1.35;0.8;1.9;515.0;441.0
+196182;Sam Wallis;Melbourne Rebels;1.35;0.8;1.9;516.0;438.0
+215100;Teddy Wilson;NSW Waratahs;1.35;1.6;1.1;453.0;501.0
+121908;Manasa Saulo;Fijian Drua;1.35;0.9;1.8;506.0;448.0
+128562;Hayden Thompson-Stringer;NSW Waratahs;1.35;1.0;1.7;498.0;454.0
+213912;Daniel Botha;NSW Waratahs;1.3;0.8;1.8;517.0;447.0
+335274;Josh Fusitu'a;Blues;1.3;1.1;1.5;487.0;470.0
+142446;George Worth;Melbourne Rebels;1.3;1.3;1.3;480.0;484.0
+126294;Rodney Iona;ACT Brumbies;1.3;1.3;1.3;476.0;482.0
+203532;Jake Upfield;Queensland Reds;1.3;1.1;1.5;488.0;468.0
+193710;Kemu Valetini;Fijian Drua;1.2999999999999998;1.4;1.2;470.0;490.0
+144894;Kitione Taliga;Fijian Drua;1.2999999999999998;1.9;0.7;439.0;534.0
+206778;Chris Minimbi;Fijian Drua;1.2999999999999998;1.2;1.4;484.0;477.0
+225534;Mahroni Ngakuru;Moana Pasifika;1.25;1.1;1.4;492.0;476.0
+176082;Kitione Ratu;Fijian Drua;1.25;1.6;0.9;459.0;516.0
+43530;Greg Holmes;Western Force;1.25;1.0;1.5;496.0;471.0
+185058;Will Tucker;Highlanders;1.25;1.0;1.5;499.0;474.0
+182334;Harry Potter;Western Force;1.25;1.6;0.9;456.0;511.0
+335274;Josh Fusitua;Blues;1.25;0.9;1.6;508.0;461.0
+234630;Penitoa Finau;Moana Pasifika;1.2000000000000002;1.1;1.3;494.0;487.0
+173694;Riley Hohepa;Hurricanes;1.15;1.5;0.8;463.0;522.0
+184716;Kaleb Trask;Chiefs;1.15;1.6;0.7;455.0;536.0
+225498;Finlay Brewis;Crusaders;1.15;0.8;1.5;513.0;473.0
+123270;Bryce Hegarty;Western Force;1.1;1.4;0.8;468.0;517.0
+130398;Tau Koloamatangi;Moana Pasifika;1.1;0.9;1.3;511.0;481.0
+177180;Ben O'Donnell;ACT Brumbies;1.1;1.3;0.9;472.0;514.0
+141654;Richard Judd;Hurricanes;1.1;1.3;0.9;475.0;512.0
+240654;Cameron Millar;Highlanders;1.1;1.3;0.9;477.0;515.0
+193434;Mosese Tuipulotu;NSW Waratahs;1.05;1.0;1.1;501.0;494.0
+233532;Viliami Fine;Moana Pasifika;1.0499999999999998;1.4;0.7;469.0;535.0
+214638;Taj Annan;Queensland Reds;1.0499999999999998;0.7;1.4;518.0;480.0
+215232;Isaiah Armstrong-Ravula;Fijian Drua;1.0;1.4;0.6;467.0;545.0
+119856;Ruan Smith;NSW Waratahs;1.0;0.9;1.1;512.0;498.0
+118806;Jimmy Tupou;Chiefs;1.0;0.8;1.2;514.0;492.0
+162522;Nephi Leatigaga;NSW Waratahs;0.95;0.7;1.2;521.0;493.0
+102846;Jeff Toomaga-Allen;Queensland Reds;0.95;0.6;1.3;527.0;485.0
+229494;Martin Bogado;Highlanders;0.95;1.2;0.7;485.0;537.0
+144144;Karl Tu'inukuafe;Blues;0.9;0.7;1.1;520.0;495.0
+242712;Darby Lancaster;Melbourne Rebels;0.8999999999999999;1.2;0.6;486.0;540.0
+211692;Josh Hill;Melbourne Rebels;0.8999999999999999;0.4;1.4;556.0;479.0
+215886;John Bryant;Queensland Reds;0.8999999999999999;0.6;1.2;537.0;488.0
+335184;Maciu Nabolakasi;Melbourne Rebels;0.8999999999999999;0.4;1.4;555.0;478.0
+118902;Tolu Latu;NSW Waratahs;0.8500000000000001;0.9;0.8;507.0;519.0
+140058;Mitchell Dunshea;Crusaders;0.8500000000000001;0.6;1.1;531.0;502.0
+141936;Tomasi Alosio;Moana Pasifika;0.8;1.1;0.5;491.0;550.0
+358626;Harry McLaughlin-Phillips;Queensland Reds;0.8;0.9;0.7;509.0;532.0
+197064;Ola Tauelangi;Moana Pasifika;0.8;0.6;1.0;526.0;506.0
+109848;Brad Shields;Hurricanes;0.8;0.5;1.1;549.0;499.0
+227238;Young Tonumaipea;Melbourne Rebels;0.8;1.1;0.5;493.0;552.0
+140034;Isileli Tu'ungafasi;Moana Pasifika;0.8;0.6;1.0;530.0;504.0
+115062;Johnny McNicholl;Crusaders;0.8;1.2;0.4;482.0;562.0
+170418;Cormac Daly;Queensland Reds;0.8;0.9;0.7;510.0;529.0
+117294;Jesse Mogg;ACT Brumbies;0.75;1.0;0.5;497.0;554.0
+130410;Atu Moli;Chiefs;0.75;0.5;1.0;543.0;507.0
+211662;Rusiate Nasove;Fijian Drua;0.75;0.7;0.8;519.0;524.0
+342090;Ajay Faleafaga;Highlanders;0.75;1.1;0.4;489.0;557.0
+340692;Jack Taylor;Highlanders;0.75;0.4;1.1;554.0;497.0
+169320;Tanielu Tele?a;Blues;0.75;0.7;0.8;522.0;523.0
+216126;Seb Calder;Crusaders;0.7000000000000001;0.3;1.1;568.0;503.0
+166686;Fred Kaihea;ACT Brumbies;0.7;0.6;0.8;538.0;527.0
+63654;Jack Lam;Moana Pasifika;0.7;0.6;0.8;539.0;526.0
+213828;George Blake;Queensland Reds;0.7;0.6;0.8;533.0;518.0
+116490;Rhys Patchell;Highlanders;0.7;0.9;0.5;503.0;555.0
+177228;Ed Kennedy;ACT Brumbies;0.65;0.4;0.9;565.0;508.0
+199812;Lukas Ripley;Melbourne Rebels;0.65;0.5;0.8;545.0;528.0
+173400;Jacob Devery;Hurricanes;0.65;0.5;0.8;542.0;521.0
+351018;Kyren Taumoefolau;Moana Pasifika;0.65;1.0;0.3;502.0;579.0
+222762;Irie Papuni;Moana Pasifika;0.6499999999999999;0.6;0.7;528.0;531.0
+206736;Meli Tuni;Fijian Drua;0.6;0.3;0.9;569.0;509.0
+69654;Josh Hohneck;Highlanders;0.6;0.5;0.7;551.0;530.0
+112806;Dominic Bird;Hurricanes;0.6;0.5;0.7;547.0;533.0
+170106;Sione Tu'ipulotu;Moana Pasifika;0.6;0.6;0.6;525.0;542.0
+235848;Josh Bartlett;Chiefs;0.6;0.6;0.6;535.0;539.0
+334872;Daniel Maiava;Melbourne Rebels;0.6;0.6;0.6;532.0;541.0
+165882;Efi Ma'afu;Melbourne Rebels;0.6;0.6;0.6;529.0;547.0
+130416;Tom Sanders;Highlanders;0.55;0.5;0.6;541.0;544.0
+196170;Kianu Kereru-Symes;Hurricanes;0.55;0.5;0.6;544.0;538.0
+113676;Sam Carter;Western Force;0.5;0.4;0.6;561.0;546.0
+161598;Harry Lloyd;Western Force;0.5;0.4;0.6;560.0;543.0
+206706;Taine Plumtree;Blues;0.5;0.4;0.6;557.0;548.0
+223278;Sateki Latu;NSW Waratahs;0.5;0.2;0.8;591.0;520.0
+125970;Mitch Brown;Chiefs;0.5;0.2;0.8;590.0;525.0
+337440;Jake Te Hiwi;Highlanders;0.45;0.5;0.4;553.0;561.0
+124578;Hame Faiva;Hurricanes;0.44999999999999996;0.3;0.6;582.0;549.0
+140382;Melani Matavao;Moana Pasifika;0.44999999999999996;0.7;0.2;524.0;590.0
+339924;Taha Kemara;Crusaders;0.44999999999999996;0.6;0.3;540.0;575.0
+225588;Ioane Moananu;Crusaders;0.44999999999999996;0.6;0.3;534.0;578.0
+186306;Timoci Sauvoli;Fijian Drua;0.44999999999999996;0.6;0.3;536.0;569.0
+124368;Brad Lacey;Western Force;0.4;0.5;0.3;548.0;583.0
+120774;Lolagi Visinia;Moana Pasifika;0.4;0.5;0.3;546.0;571.0
+124596;Scott Scrafton;Hurricanes;0.4;0.4;0.4;562.0;563.0
+130716;Ross Haylett-Petty;Melbourne Rebels;0.4;0.3;0.5;573.0;553.0
+266268;Jona Mataiciwa;Fijian Drua;0.35;0.4;0.3;564.0;581.0
+197472;Potu Leavasa;Moana Pasifika;0.35;0.2;0.5;596.0;551.0
+152838;Gareth Simpson;Western Force;0.35;0.5;0.2;550.0;606.0
+54198;Kurtley Beale;Western Force;0.35;0.5;0.2;552.0;602.0
+111504;Paddy Ryan;NSW Waratahs;0.35;0.2;0.5;589.0;556.0
+163722;Denny Solomona;Highlanders;0.35;0.4;0.3;563.0;574.0
+350364;Iliesa Junior Ratuva;Fijian Drua;0.30000000000000004;0.4;0.2;559.0;591.0
+191478;Spencer Jeans;Queensland Reds;0.30000000000000004;0.4;0.2;558.0;594.0
+197328;Max Douglas;NSW Waratahs;0.30000000000000004;0.2;0.4;599.0;558.0
+197850;Niko Jones;Moana Pasifika;0.30000000000000004;0.2;0.4;598.0;564.0
+149670;Sam Caird;Highlanders;0.30000000000000004;0.2;0.4;588.0;559.0
+337374;Tahlor Cahill;Crusaders;0.30000000000000004;0.2;0.4;604.0;566.0
+130854;Henry Time-Stowers;Moana Pasifika;0.3;0.3;0.3;571.0;585.0
+115074;Ben Funnell;Western Force;0.3;0.3;0.3;575.0;584.0
+241830;Daniel Sinkinson;Hurricanes;0.3;0.3;0.3;574.0;577.0
+160656;Isi Naisarani;Western Force;0.3;0.3;0.3;567.0;567.0
+185064;Ngatungane Punivai;Highlanders;0.3;0.3;0.3;566.0;572.0
+60558;Ryan Crotty;Crusaders;0.3;0.3;0.3;580.0;573.0
+340854;Willi Gualter;Crusaders;0.25;0.2;0.3;595.0;586.0
+141966;Joe 'Apikotoa;Moana Pasifika;0.25;0.2;0.3;585.0;582.0
+166668;Charlie Hancock;Western Force;0.25;0.1;0.4;613.0;560.0
+120768;Simon Hickey;Crusaders;0.25;0.3;0.2;578.0;592.0
+118866;Matt Proctor;Melbourne Rebels;0.25;0.2;0.3;586.0;568.0
+338154;Declan Meredith;ACT Brumbies;0.25;0.3;0.2;581.0;605.0
+198180;Pasilio Tosi;Hurricanes;0.25;0.2;0.3;597.0;576.0
+131034;Leone Nawai;Fijian Drua;0.25;0.3;0.2;570.0;597.0
+204918;Jone Tiko;Fijian Drua;0.25;0.1;0.4;635.0;565.0
+206022;James Turner;NSW Waratahs;0.2;0.3;0.1;576.0;628.0
+197274;Hunter Ward;NSW Waratahs;0.2;0.1;0.3;630.0;570.0
+132324;Tim Cardall;Melbourne Rebels;0.2;0.2;0.2;605.0;607.0
+200088;Ben Dowling;NSW Waratahs;0.2;0.3;0.1;579.0;631.0
+234516;Josh Jacomb;Chiefs;0.2;0.3;0.1;583.0;629.0
+124632;Teihorangi Walden;Hurricanes;0.2;0.2;0.2;592.0;600.0
+166026;Ben Grant;Hurricanes;0.2;0.1;0.3;633.0;580.0
+142068;Jack Maunder;Melbourne Rebels;0.2;0.3;0.1;584.0;612.0
+338310;Isikeli Rabitu;Fijian Drua;0.2;0.3;0.1;577.0;613.0
+156750;Josh Kaifa;Moana Pasifika;0.2;0.2;0.2;594.0;598.0
+66642;Nemani Nadolo;NSW Waratahs;0.2;0.3;0.1;572.0;615.0
+233106;Aisea Halo;Moana Pasifika;0.15000000000000002;0.2;0.1;601.0;635.0
+234570;Peniasi Malimali;Chiefs;0.15000000000000002;0.2;0.1;600.0;626.0
+266334;Raymond Tuputupu;Hurricanes;0.15000000000000002;0.1;0.2;637.0;601.0
+166152;Michael McDonald;Western Force;0.15000000000000002;0.2;0.1;603.0;637.0
+358584;Tim Ryan;Queensland Reds;0.15000000000000002;0.1;0.2;650.0;588.0
+344394;Hugo Plummer;Hurricanes;0.15000000000000002;0.1;0.2;615.0;596.0
+149718;Alex Fidow;Hurricanes;0.15000000000000002;0.1;0.2;608.0;609.0
+191382;Harry Vella;ACT Brumbies;0.15000000000000002;0.1;0.2;612.0;599.0
+222630;Zac Von Appen;NSW Waratahs;0.15000000000000002;0.1;0.2;610.0;589.0
+235956;Heremaia Murray;Crusaders;0.15000000000000002;0.2;0.1;593.0;632.0
+128346;Cam Clark;ACT Brumbies;0.15000000000000002;0.1;0.2;611.0;608.0
+124554;Donald Brighouse;Moana Pasifika;0.15000000000000002;0.2;0.1;607.0;621.0
+190878;Matt Whaanga;Highlanders;0.15000000000000002;0.1;0.2;621.0;595.0
+206694;Shilo Klein;Crusaders;0.15000000000000002;0.1;0.2;649.0;604.0
+338274;Motikiai Murray;Fijian Drua;0.15000000000000002;0.1;0.2;624.0;587.0
+205134;Connor Anderson;Queensland Reds;0.15000000000000002;0.1;0.2;628.0;603.0
+215184;Henry O'Donnell;Western Force;0.15000000000000002;0.2;0.1;606.0;619.0
+69582;Baden Kerr;Fijian Drua;0.15000000000000002;0.2;0.1;602.0;634.0
+235872;Semisi Paea;Moana Pasifika;0.15000000000000002;0.1;0.2;609.0;593.0
+214698;Klayton Thorn;ACT Brumbies;0.15000000000000002;0.2;0.1;587.0;625.0
+63072;Quentin MacDonald;Crusaders;0.1;0.1;0.1;614.0;630.0
+266664;Solomone Tukuafu;Chiefs;0.1;0.1;0.1;641.0;636.0
+234522;Nathan Hastie;Highlanders;0.1;0.1;0.1;623.0;639.0
+146790;Hamilton Burr;Chiefs;0.1;0.1;0.1;631.0;611.0
+130434;Kaveinga Finau;Crusaders;0.1;0.1;0.1;622.0;649.0
+142266;Anaru Rangi;Melbourne Rebels;0.1;0.1;0.1;651.0;647.0
+318996;Kemu Valentini;Fijian Drua;0.1;0.1;0.1;625.0;642.0
+358716;Jordi Viljoen;Hurricanes;0.1;0.1;0.1;643.0;648.0
+121002;Tom Parsons;Hurricanes;0.1;0.1;0.1;640.0;618.0
+233094;Jay Fonokalafi;NSW Waratahs;0.1;0.1;0.1;618.0;643.0
+161850;Sam Thomson;ACT Brumbies;0.1;0.0;0.2;668.0;610.0
+42702;John Afoa;Crusaders;0.1;0.1;0.1;638.0;627.0
+336636;Seb Calder;Crusaders;0.1;0.1;0.1;626.0;617.0
+227544;Reece Tapine;Western Force;0.1;0.1;0.1;632.0;646.0
+153426;Ethan Dobbins;Melbourne Rebels;0.1;0.1;0.1;619.0;614.0
+337386;Jamie Hannah;Crusaders;0.1;0.1;0.1;616.0;633.0
+193692;Rory van Vugt;Highlanders;0.1;0.1;0.1;617.0;651.0
+342084;Will Stodart;Highlanders;0.1;0.1;0.1;620.0;640.0
+225660;Freedom Vahaakolo	;Highlanders;0.1;0.1;0.1;629.0;657.0
+211998;Siua Maile;Hurricanes;0.1;0.1;0.1;647.0;620.0
+173844;Tom Florence;Chiefs;0.1;0.1;0.1;648.0;654.0
+215232;Isaiah Ravula;Fijian Drua;0.1;0.1;0.1;627.0;645.0
+168966;Kemara Hauiti-Parapara;Highlanders;0.1;0.1;0.1;634.0;644.0
+117606;Chris Feauai-Sautia;ACT Brumbies;0.05;0.0;0.1;673.0;641.0
+214626;Mason Gordon;Melbourne Rebels;0.05;0.1;0.0;642.0;677.0
+235950;Jock McKenzie;Blues;0.05;0.1;0.0;636.0;667.0
+190974;Jack Winchester;Western Force;0.05;0.0;0.1;734.0;659.0
+197958;Lalomilo ;Chiefs;0.05;0.1;0.0;644.0;672.0
+60582;Josh Bekhuis;Highlanders;0.05;0.0;0.1;663.0;616.0
+206502;Napolioni Bolaca;Fijian Drua;0.05;0.1;0.0;645.0;689.0
+52272;Ben May;Hurricanes;0.05;0.0;0.1;684.0;652.0
+48240;John Ulugia;ACT Brumbies;0.05;0.0;0.1;703.0;650.0
+235224;PJ Sheck;Highlanders;0.05;0.0;0.1;670.0;624.0
+338496;Louis Werchon;Queensland Reds;0.05;0.0;0.1;669.0;660.0
+164628;Nelson Rebolo;Western Force;0.05;0.0;0.1;664.0;655.0
+335940;Jone Tiko;Fijian Drua;0.05;0.0;0.1;659.0;638.0
+226074;Lewis Ponini;NSW Waratahs;0.05;0.0;0.1;660.0;623.0
+164070;Vilimoni Koroi;Highlanders;0.05;0.1;0.0;639.0;671.0
+142242;Moses Sorovi;Melbourne Rebels;0.05;0.1;0.0;646.0;673.0
+350058;Phransis Sula- Siaosi;Queensland Reds;0.05;0.0;0.1;661.0;622.0
+169080;Raikabula Momoedonu;Fijian Drua;0.05;0.0;0.1;675.5;658.0
+354576;Jack Wright;ACT Brumbies;0.05;0.0;0.1;675.5;656.0
+216648;Tyler Laubscher;Hurricanes;0.05;0.0;0.1;655.0;653.0
+340308;Kauvaka Kaivelata;Chiefs;0.0;0.0;0.0;716.0;726.0
+336972;Taj Annan;Queensland Reds;0.0;0.0;0.0;691.0;723.0
+360696;James Mullan;Crusaders;0.0;0.0;0.0;734.0;739.0
+337392;Siale Lauaki;Hurricanes;0.0;0.0;0.0;712.0;675.0
+359628;Vuate Karawalevu;NSW Waratahs;0.0;0.0;0.0;689.0;724.0
+337416;Finn Hurley;Highlanders;0.0;0.0;0.0;734.0;710.0
+358818;Waqa Nalaga;Fijian Drua;0.0;0.0;0.0;698.0;709.0
+297552;William Sankey;Western Force;0.0;0.0;0.0;667.0;670.0
+358818;Epeli Waqaicece;Fijian Drua;0.0;0.0;0.0;734.0;727.0
+337422;Joel Lam;Crusaders;0.0;0.0;0.0;710.0;719.0
+336438;Floyd Aubrey;Queensland Reds;0.0;0.0;0.0;734.0;739.0
+355134;Marley Pearce;Western Force;0.0;0.0;0.0;662.0;691.0
+337434;Jone Rova;Crusaders;0.0;0.0;0.0;734.0;722.0
+336558;George Bell;Crusaders;0.0;0.0;0.0;704.0;686.0
+343494;Fletcher Anderson;Crusaders;0.0;0.0;0.0;734.0;706.0
+342078;Rohan Wingham;Highlanders;0.0;0.0;0.0;654.0;680.0
+338298;Phillip Baselala;Fijian Drua;0.0;0.0;0.0;711.0;682.0
+358638;Jack Barrett;NSW Waratahs;0.0;0.0;0.0;686.0;715.0
+335874;Caleb Tangitau;Blues;0.0;0.0;0.0;700.0;692.0
+174300;Mark Royal;Moana Pasifika;0.0;0.0;0.0;734.0;739.0
+241830;Dan Sinkinson;Hurricanes;0.0;0.0;0.0;666.0;668.0
+189966;Joel Hintz;Western Force;0.0;0.0;0.0;709.0;690.0
+184752;Ilikena Vudogo;Melbourne Rebels;0.0;0.0;0.0;692.0;704.0
+183636;Michael Icely;NSW Waratahs;0.0;0.0;0.0;717.0;730.0
+183510;Thomas Nowlan;Melbourne Rebels;0.0;0.0;0.0;706.0;665.0
+182118;Lachie Anderson;Melbourne Rebels;0.0;0.0;0.0;734.0;739.0
+175830;Pedro Rolando;ACT Brumbies;0.0;0.0;0.0;722.0;705.0
+174318;Lisati Milo-Harris;Blues;0.0;0.0;0.0;714.0;664.0
+173490;Otumaka Mausia;Moana Pasifika;0.0;0.0;0.0;701.0;703.0
+166176;James Ramm;NSW Waratahs;0.0;0.0;0.0;715.0;733.0
+164082;Neria Foma'i;Moana Pasifika;0.0;0.0;0.0;674.0;688.0
+162990;Kalione Nasoko;Fijian Drua;0.0;0.0;0.0;734.0;728.0
+156984;Solomon Alaimalo;Chiefs;0.0;0.0;0.0;696.0;720.0
+156882;Liam Hallam-Eames;Crusaders;0.0;0.0;0.0;707.5;697.0
+151998;Ed Craig;NSW Waratahs;0.0;0.0;0.0;724.0;729.0
+143970;Dwayne Polataivao;Moana Pasifika;0.0;0.0;0.0;734.0;694.0
+142116;Patrick James;Queensland Reds;0.0;0.0;0.0;734.0;699.0
+140694;Hamish Dalzell;Crusaders;0.0;0.0;0.0;713.0;701.0
+139998;Sione Tuipulotu;Moana Pasifika;0.0;0.0;0.0;734.0;739.0
+130392;Mitchell Jacobson;Chiefs;0.0;0.0;0.0;695.0;725.0
+124938;Melani Nanai;Crusaders;0.0;0.0;0.0;679.0;702.0
+118722;Ofa Tuungafasi;Blues;0.0;0.0;0.0;697.0;714.0
+111510;Albert Anae;Queensland Reds;0.0;0.0;0.0;705.0;685.0
+102936;Kayne Hammington;Highlanders;0.0;0.0;0.0;678.0;681.0
+97650;Leigh Halfpenny;Crusaders;0.0;0.0;0.0;680.0;695.0
+93942;Dave Horton;Western Force;0.0;0.0;0.0;690.0;693.0
+63474;Joe Royal;Moana Pasifika;0.0;0.0;0.0;723.0;721.0
+187740;Sione Misiloi;NSW Waratahs;0.0;0.0;0.0;702.0;732.0
+191580;Alexander Masibaka;Western Force;0.0;0.0;0.0;652.0;662.0
+240672;Tevita Funa;NSW Waratahs;0.0;0.0;0.0;687.0;713.0
+192522;Lachie Albert;ACT Brumbies;0.0;0.0;0.0;734.0;739.0
+235860;Veveni Lasaqa;Hurricanes;0.0;0.0;0.0;734.0;669.0
+235500;Lucas Cashmore;Blues;0.0;0.0;0.0;707.5;700.0
+235494;Sione Ahio;Chiefs;0.0;0.0;0.0;699.0;716.0
+234792;Sam Wye;Moana Pasifika;0.0;0.0;0.0;694.0;739.0
+234756;Logan Henry;Hurricanes;0.0;0.0;0.0;658.0;718.0
+234708;Luca Inch;Highlanders;0.0;0.0;0.0;718.0;717.0
+229926;Bradley Amituanai;NSW Waratahs;0.0;0.0;0.0;683.0;661.0
+227160;Andrew Turner;Crusaders;0.0;0.0;0.0;656.0;666.0
+225564;Rob Rush;Blues;0.0;0.0;0.0;720.0;707.0
+215400;Liam Bowron;ACT Brumbies;0.0;0.0;0.0;721.0;711.5
+215118;Jack Bowen;NSW Waratahs;0.0;0.0;0.0;693.0;731.0
+213486;Thomas Maka;Moana Pasifika;0.0;0.0;0.0;685.0;676.0
+213444;Joe Brial;Queensland Reds;0.0;0.0;0.0;734.0;734.0
+209898;Nikolai Foliaki;Western Force;0.0;0.0;0.0;677.0;679.0
+209652;Xavier Cowley-Tuioti;Moana Pasifika;0.0;0.0;0.0;719.0;708.0
+206820;Josh Vuta;Fijian Drua;0.0;0.0;0.0;734.0;739.0
+199770;Titi Nofoagatotoa;Western Force;0.0;0.0;0.0;734.0;739.0
+197886;Gideon Wrampling;Chiefs;0.0;0.0;0.0;665.0;698.0
+197880;Isaiah Punivai;Crusaders;0.0;0.0;0.0;653.0;674.0
+197856;Louie Chapman;Crusaders;0.0;0.0;0.0;671.0;687.0
+197544;Phransis Sula-Siaosi;Queensland Reds;0.0;0.0;0.0;734.0;711.5
+197280;Henry Robertson;NSW Waratahs;0.0;0.0;0.0;682.0;683.0
+196914;Theo Fourie;Melbourne Rebels;0.0;0.0;0.0;657.0;663.0
+196728;Grason Makara;Western Force;0.0;0.0;0.0;672.0;678.0
+192630;William Harris;NSW Waratahs;0.0;0.0;0.0;688.0;684.0
+368232;Lachlan Shaw;ACT Brumbies;0.0;0.0;0.0;681.0;696.0
